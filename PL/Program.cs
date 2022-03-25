@@ -11,7 +11,7 @@ namespace PL
         static void Main(string[] args)
         {
             ML.Result result = BL.Empleado.GetAll();
-            Console.WriteLine("No se que está pasando");
+            
         }
     }
 }
