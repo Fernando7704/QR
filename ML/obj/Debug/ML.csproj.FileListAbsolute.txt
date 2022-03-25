@@ -1,0 +1,5 @@
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\ML\bin\Debug\ML.dll
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\ML\bin\Debug\ML.pdb
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\ML\obj\Debug\ML.dll
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\ML\obj\Debug\ML.pdb
