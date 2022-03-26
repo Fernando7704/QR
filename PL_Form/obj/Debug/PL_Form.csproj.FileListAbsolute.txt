@@ -6,3 +6,4 @@ C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.Prope
 C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.csproj.GenerateResource.Cache
 C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.exe
 C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.pdb
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.Inicio.resources
