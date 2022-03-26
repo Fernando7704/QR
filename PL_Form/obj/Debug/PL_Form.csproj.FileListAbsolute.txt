@@ -1,0 +1,8 @@
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\bin\Debug\PL_Form.exe.config
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\bin\Debug\PL_Form.exe
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\bin\Debug\PL_Form.pdb
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.csprojResolveAssemblyReference.cache
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.Properties.Resources.resources
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.csproj.GenerateResource.Cache
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.exe
+C:\Users\ferch\Documents\Proyectos\FLuna20220323\PL_Form\obj\Debug\PL_Form.pdb
